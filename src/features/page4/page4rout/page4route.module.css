@@ -1,0 +1,164 @@
+.parent {
+    width: 100%;
+    height: 854px;
+    background: #2F333A;
+}
+
+.box {
+    width: 100%;
+    height: 90%;
+    display: flex;
+}
+
+.mod {
+    width: 100%;
+    height: 76%;
+    display: flex;
+
+}
+
+
+.modimg {
+    width: 50%;
+    height: 100%;
+}
+
+.imgcont {
+    width: 100%;
+    height: 80%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.duble {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.returimg {
+    width: 60%;
+    height: 60%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.cont4 {
+    width: 60px;
+    height: 60px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-right: 10px;
+}
+
+.kid1 {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.kid2 {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.kid3 {
+    width: 30%;
+    height: 35px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.l {
+    width: 16px;
+    height: 16px;
+    background-color: #323232;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.col {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+    background-color: rgba(0, 0, 0, 0.525);
+    margin-top: 10px;
+}
+
+.col1 {
+    width: 15px;
+    height: 15px;
+    background: #7A7A7A;
+    margin-top: 10px;
+}
+
+.chac {
+    width: 14px;
+    height: 25px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+}
+
+.karzin {
+    width: 90px;
+    height: 25px;
+    background: #F6F6F6;
+    color: #192031;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+
+.kid6 {
+    width: 100%;
+    height: 35px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nalich {
+    color: #6A6A6A;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.kid10{
+    width:100%;
+    height:160px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    transform: s;
+}

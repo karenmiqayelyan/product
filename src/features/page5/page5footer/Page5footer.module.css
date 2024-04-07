@@ -1,0 +1,336 @@
+.hed {
+    width: 95%;
+    height: 45%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+.refresh {
+    width: 99%;
+    height: 35px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.bgimg {
+    width: 100%;
+    height: 57px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url(../../../../public/imagescomp/Group5\ 2\ \(1\).png);
+    cursor: pointer;
+}
+
+.imgretur {
+    width: 50px;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 10px;
+}
+
+.belt {
+    width: 98%;
+    height: 30px;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.beltt {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.price {
+    color: #828282;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-right: 20px;
+}
+
+.dollars {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.hed2 {
+    width: 75%;
+    height: 100%;
+
+}
+
+.categor5 {
+    width: 400px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+}
+
+.categorsize {
+    width: 100px;
+    height: 32px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 25px;
+    background: rgba(255, 255, 255, 0.10);
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    opacity: 0.55;
+    list-style: none;
+}
+
+.radio19 {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid white;
+    list-style: none;
+}
+
+.mayn {
+    width: 83%;
+    height: 100%;
+}
+
+.total {
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.text1 {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-right: 20px;
+}
+
+.text2 {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.add {
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+    border: 1px solid #3485FF;
+    color: #3485FF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.version {
+    width: 60%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #A4A4A4;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+
+}
+
+.addtobag {
+    width: 100%;
+    height: 160px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.addtobag2 {
+    width: 340px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.addtobagwidth {
+    width: 150px;
+    height: 32px;
+    border-radius: 25px;
+    border: 1px solid #3485FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.order20 {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+    width: 150px;
+    height: 32px;
+    border-radius: 25px;
+    background: #3485FF;
+}
+
+.kid {
+    width: 100%;
+    height: 140px;
+}
+
+.box {
+    width: 100%;
+    height: 80px;
+    display: flex;
+
+    align-items: center;
+}
+
+
+.bgretur {
+    width: 66px;
+    height: 66px;
+
+    border-radius: 5px;
+    border: 1px solid rgba(130, 130, 130, 0.55);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg {
+    width: 37px;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.cont {
+    width: 66px;
+    height: 90px;
+    display: flex;
+    margin-left: 20px;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sellr {
+    opacity: 0.550000011920929;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.displa {
+    width: 150px;
+    height: 200px;
+    position: absolute;
+    left: -6%;
+    top: 100%;
+    border-radius: 5px;
+    background: #44474E;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    z-index: 2;
+}
+
+.size30 {
+    width: 100%;
+    height: 28px;
+    color: #B1B1B1;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.size30:hover{
+    background-color: #3C3E45;;
+}
+
+.displa2{
+    width: 150px;
+    height: 200px;
+    position: absolute;
+    left: 26%;
+    top: 100%;
+    border-radius: 5px;
+    background: #44474E;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    z-index: 1;
+}

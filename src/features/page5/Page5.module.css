@@ -1,0 +1,97 @@
+.cont{
+   width:100%;
+   height: 67%;
+   display: flex;
+   flex-direction: column;
+   justify-content: start;
+   align-items: center; 
+     background: #2F333A;
+   
+}
+
+.cont2{
+    width:95%;
+    height:65%;
+}
+
+.box {
+  width: 866px;
+  height: 334px;
+  border-radius: 10px;
+  background: #2F333A;
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.25);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.atmenit {
+  width: 98%;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.belt {
+
+  color: #FFF;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: capitalize;
+}
+
+.x {
+  color: azure;
+  font-size: 19px;
+  cursor: pointer;
+}
+
+.box1 {
+  width: 99%;
+  height: 290px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box2 {
+  width: 115.888px;
+  height: 123.223px;
+  cursor: pointer;
+}
+
+.boximage {
+  width: 100%;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgcatigory {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.box3 {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.dollars {
+  color: #FFF;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: capitalize;
+}

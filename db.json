@@ -1,0 +1,491 @@
+{
+  "categoryimages": [
+    {
+      "id": 1,
+      "url": "./images/detail1 3.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "2500 ",
+      "buy": "See More",
+      "status": false,
+      "col": false,
+      "color": false,
+      "color1": true,
+      "usersid": 0
+    },
+    {
+      "id": 2,
+      "url": "./images/u 3.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "1500 ",
+      "buy": "See More",
+      "status": false,
+      "col1": false,
+      "color2": false,
+      "usersid": 0
+    },
+    {
+      "id": 3,
+      "url": "./images/u 4.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "2800 ",
+      "buy": "See More",
+      "status": false,
+      "usersid": 0
+    },
+    {
+      "id": 4,
+      "url": "./images/V (1).png",
+      "title": "Custom Name Bracelet",
+      "sellary": "4500 ",
+      "buy": "See More",
+      "status": false,
+      "usersid": 0
+    },
+    {
+      "id": 5,
+      "url": "./images/W.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "3500 ",
+      "buy": "See More",
+      "status": false,
+      "usersid": 0
+    },
+    {
+      "id": 6,
+      "url": "./images/X.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "7500 ",
+      "buy": "See More",
+      "status": false,
+      "usersid": 0
+    },
+    {
+      "id": 7,
+      "url": "./images/detail1 3.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "2500 ",
+      "buy": "See More",
+      "status": false,
+      "col": false,
+      "color": false,
+      "color1": true,
+      "usersid": 0
+    },
+    {
+      "id": 8,
+      "url": "./images/u 3.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "1500 ",
+      "buy": "See More",
+      "status": false,
+      "col1": false,
+      "color2": false,
+      "usersid": 0
+    },
+    {
+      "id": 9,
+      "url": "./images/u 4.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "2800 ",
+      "buy": "See More",
+      "status": false,
+      "usersid": 0
+    },
+    {
+      "id": 10,
+      "url": "./images/V (1).png",
+      "title": "Custom Name Bracelet",
+      "sellary": "4500 ",
+      "buy": "See More",
+      "status": false,
+      "usersid": 0
+    },
+    {
+      "id": 11,
+      "url": "./images/W.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "3500 ",
+      "buy": "See More",
+      "status": false,
+      "usersid": 0
+    },
+    {
+      "id": 12,
+      "url": "./images/X.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "7500 ",
+      "buy": "See More",
+      "status": false,
+      "usersid": 0
+    },
+    {
+      "id": 13,
+      "url": "./images/detail1 3.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "2500 ",
+      "buy": "See More",
+      "status": false,
+      "col": false,
+      "color": false,
+      "color1": false,
+      "usersid": 0
+    },
+    {
+      "id": 14,
+      "url": "./images/u 3.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "1500 ",
+      "buy": "See More",
+      "status": false,
+      "col1": false,
+      "color2": true,
+      "usersid": 0
+    },
+    {
+      "id": 15,
+      "url": "./images/u 4.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "2800 ",
+      "buy": "See More",
+      "status": false,
+      "col": false,
+      "usersid": 0
+    },
+    {
+      "id": 16,
+      "url": "./images/V (1).png",
+      "title": "Custom Name Bracelet",
+      "sellary": "4500 ",
+      "buy": "See More",
+      "status": false,
+      "col": false,
+      "usersid": 0
+    },
+    {
+      "id": 17,
+      "url": "./images/W.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "3500 ",
+      "buy": "See More",
+      "status": false,
+      "usersid": 0
+    },
+    {
+      "id": 18,
+      "url": "./images/X.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "7500 ",
+      "buy": "See More",
+      "status": false,
+      "usersid": 0
+    },
+    {
+      "id": 19,
+      "url": "./images/detail1 3.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "2500 ",
+      "buy": "See More",
+      "status": false,
+      "col": false,
+      "color": false,
+      "color1": false,
+      "usersid": 0
+    },
+    {
+      "id": 20,
+      "url": "./images/u 3.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "1500 ",
+      "buy": "See More",
+      "status": false,
+      "col1": false,
+      "color2": true,
+      "usersid": 0
+    },
+    {
+      "id": 21,
+      "url": "./images/u 4.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "2800 ",
+      "buy": "See More",
+      "status": false,
+      "col": false,
+      "usersid": 0
+    },
+    {
+      "id": 22,
+      "url": "./images/V (1).png",
+      "title": "Custom Name Bracelet",
+      "sellary": "4500 ",
+      "buy": "See More",
+      "status": false,
+      "col": false,
+      "usersid": 0
+    },
+    {
+      "id": 23,
+      "url": "./images/W.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "3500 ",
+      "buy": "See More",
+      "status": false,
+      "usersid": 0
+    },
+    {
+      "id": 24,
+      "url": "./images/X.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "7500 ",
+      "buy": "See More",
+      "status": false,
+      "usersid": 0
+    }
+  ],
+  "categoryimages2": [],
+  "clouse": [
+    {
+      "id": 1,
+      "url": "./images2/blue-leather-texture-background-260nw-237285898 1.png",
+      "title": "blu mood",
+      "dollars": "200,00 $",
+      "color": "blue",
+      "sellary": 4900
+    },
+    {
+      "id": 2,
+      "url": "./images2/valhalla_darkpine_Crop_Base 1 (1).png",
+      "title": "brown mood",
+      "dollars": "300,00 $",
+      "color": "brown",
+      "sellary": 4900
+    },
+    {
+      "id": 3,
+      "url": "./images2/leather-texture-brown-uneven-pattern-smoth-old-fabric-photo-5 1.png",
+      "title": "brown mood",
+      "dollars": "100,00 $",
+      "color": "brown",
+      "sellary": 4900
+    },
+    {
+      "id": 4,
+      "url": "./images2/39299662-close-up-of-a-color-natural-leather-texture-leather-background 1 (1).png",
+      "title": "white mood",
+      "dollars": "400,00 $",
+      "color": "white",
+      "sellary": 4900
+    },
+    {
+      "id": 5,
+      "url": "./images2/Daytona_Hazelnut-min_1028x 1 (1).png",
+      "title": "yelow mood",
+      "dollars": "500,00 $",
+      "color": "yellow",
+      "sellary": 4900
+    },
+    {
+      "id": 6,
+      "url": "./images2/images 1 (1).png",
+      "title": "black mood",
+      "dollars": "600,00 $",
+      "color": "black",
+      "sellary": 4900
+    },
+    {
+      "id": 7,
+      "url": "./images2/13d9ce59908eab01c1efcd9512 1 (2).png",
+      "title": "green mood",
+      "dollars": "700,00 $",
+      "color": "green",
+      "sellary": 4900
+    },
+    {
+      "id": 8,
+      "url": "./images2/13d9ce59908eab01c1efcd9512 1 (1).png",
+      "title": "red mood",
+      "dollars": "800,00 $",
+      "color": "red",
+      "sellary": 4900
+    },
+    {
+      "id": 9,
+      "url": "./images2/valhalla_darkpine_Crop_Base 1 (1).png",
+      "title": "brown mood",
+      "dollars": "900,00 $",
+      "color": "brown",
+      "sellary": 4900
+    },
+    {
+      "id": 10,
+      "url": "./images2/leather-texture-brown-uneven-pattern-smoth-old-fabric-photo-5 1.png",
+      "title": "brown mood",
+      "dollars": "210 $",
+      "color": "brown",
+      "sellary": 4900
+    },
+    {
+      "id": 11,
+      "url": "./images2/39299662-close-up-of-a-color-natural-leather-texture-leather-background 1 (1).png",
+      "title": "white mood",
+      "dollars": "450 $",
+      "color": "white",
+      "sellary": 4900
+    },
+    {
+      "id": 12,
+      "url": "./images2/Daytona_Hazelnut-min_1028x 1 (1).png",
+      "title": "yellow mood",
+      "dollars": "789 $",
+      "color": "yellow",
+      "sellary": 4900
+    },
+    {
+      "id": 13,
+      "url": "./images2/images 1 (1).png",
+      "title": "black mood",
+      "dollars": "7787 $",
+      "color": "black",
+      "sellary": 4900
+    },
+    {
+      "id": 14,
+      "url": "./images2/13d9ce59908eab01c1efcd9512 1 (2).png",
+      "title": "green mood",
+      "dollars": "120 $",
+      "color": "green",
+      "sellary": 4900
+    }
+  ],
+  "refresh": [],
+  "wishlist": [],
+  "bag": [],
+  "myaccaunt": [
+    {
+      "id": 1,
+      "url": "./images/detail1 3.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "2500 ",
+      "buy": "See More",
+      "subkategory": 1,
+      "kids": 3,
+      "collectionQuery": 5,
+      "materialQuery": 11,
+      "finishQuery": 15
+    },
+    {
+      "id": 2,
+      "url": "./images/u 3.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "1500 ",
+      "buy": "See More",
+      "subkategory": 1,
+      "kids": 3,
+      "collectionQuery": 5,
+      "materialQuery": 11,
+      "finishQuery": 15
+    },
+    {
+      "id": 3,
+      "url": "./images/u 4.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "2800 ",
+      "buy": "See More",
+      "subkategory": 1,
+      "kids": 3,
+      "collectionQuery": 6,
+      "materialQuery": 12,
+      "finishQuery": 15
+    },
+    {
+      "id": 4,
+      "url": "./images/V (1).png",
+      "title": "Custom Name Bracelet",
+      "sellary": "4500 ",
+      "buy": "See More",
+      "subkategory": 1,
+      "kids": 3,
+      "collectionQuery": 8,
+      "materialQuery": 13,
+      "finishQuery": 16
+    },
+    {
+      "id": 5,
+      "url": "./images/W.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "3500 ",
+      "buy": "See More",
+      "subkategory": 1,
+      "kids": 3,
+      "collectionQuery": 9,
+      "materialQuery": 13,
+      "finishQuery": 16
+    },
+    {
+      "id": 6,
+      "url": "./images/X.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "7500 ",
+      "buy": "See More",
+      "subkategory": 2,
+      "animals": 4,
+      "collectionQuery": 10,
+      "materialQuery": 14,
+      "finishQuery": 17
+    },
+    {
+      "id": 7,
+      "url": "./images/detail1 3.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "2500 ",
+      "buy": "See More",
+      "subkategory": 2,
+      "animals": 4,
+      "collectionQuery": 5,
+      "materialQuery": 14,
+      "finishQuery": 17
+    },
+    {
+      "id": 8,
+      "url": "./images/u 3.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "1500 ",
+      "buy": "See More",
+      "subkategory": 2,
+      "animals": 4,
+      "collectionQuery": 5,
+      "materialQuery": 14,
+      "finishQuery": 17
+    },
+    {
+      "id": 9,
+      "url": "./images/u 4.png",
+      "title": "Custom Name Bracelet",
+      "sellary": "2800 ",
+      "buy": "See More",
+      "subkategory": 2,
+      "animals": 4,
+      "collectionQuery": 6,
+      "materialQuery": 14,
+      "finishQuery": 18
+    },
+    {
+      "id": 10,
+      "url": "./images/V (1).png",
+      "title": "Custom  Name Bracelet",
+      "sellary": "4500 ",
+      "buy": "See More",
+      "subkategory": 2,
+      "animals": 4,
+      "collectionQuery": 6,
+      "materialQuery": 14,
+      "finishQuery": 19
+    }
+  ],
+  "bagtwoarr": [],
+  "bagcount": [
+    {
+      "gumar1": 0,
+      "id": 1
+    }
+  ]
+}

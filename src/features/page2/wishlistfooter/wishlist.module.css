@@ -1,0 +1,67 @@
+.content {
+    width: 100%;
+    height: 160px;
+}
+
+.box1 {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.box2 {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+
+.footer {
+    color: #A4A4A4;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.page {
+    width: 400px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page1 {
+    width: 50px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 4px;
+    border: 1px solid #3485FF;
+    background: #FFF;
+    color: var(--dark-grey-400, #212B36);
+    text-align: center;
+    font-family: Montserrat arm;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.page2{
+    width:50px;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    cursor: pointer;
+}

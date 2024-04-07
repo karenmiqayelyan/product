@@ -1,0 +1,142 @@
+.modal2 {
+    width: 50%;
+    height: 100%;
+}
+
+.modal4 {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    background: #2F333A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal5 {
+    width: 95%;
+    height: 95%;
+
+}
+
+.header {
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.p {
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.section1 {
+    width: 100%;
+    height: 240px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgmodal {
+    width: 50%;
+    height: 100%;
+    background: #3B4048;
+}
+
+.like {
+    width: 100%;
+    height: 35px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.imgcontent {
+    width: 100%;
+    height: 85%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgbg {
+    width: 150px;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.textt {
+    width: 46%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.many {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-transform: capitalize;
+    opacity: 0.8;
+}
+
+.dolors {
+
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+    
+
+}
+
+.lorem {
+    color: #E6E6E6;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: normal;
+    text-transform: capitalize;
+    opacity: 0.8;
+}
+
+.twoimg{
+    width:100%;
+    height:60px;
+}
+
+.tryimg{
+    width:250px;
+    height:100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.bord{
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    background-color: #3B4048;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bord1{
+    width:35px;
+    height:35px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}

@@ -1,0 +1,253 @@
+.cont {
+    width: 100%;
+    height: 580px;
+}
+
+.butt1 {
+    top: -30%;
+    right: 990px;
+}
+
+.butt2 {
+    right: 10px;
+    top: -30%;
+
+}
+
+/* .MobileStepper{
+    display: flex;
+    justify-content: end;
+    background-color: red;
+} */
+
+.bgimg {
+    height: 580px;
+    display: block;
+    max-width: 100%;
+    overflow: hidden;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    z-index: 1;
+    background-repeat: no-repeat;
+
+}
+
+
+.box1 {
+    width: 100%;
+    height: 260px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.box2 {
+    width: 100%;
+    height: 280px;
+    display: flex;
+    align-items: end;
+}
+
+.box3 {
+    width: 100%;
+    height: 190px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.braclet {
+    font-family: Montserrat;
+    font-size: 130px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+    opacity: 0.1;
+}
+
+.yournext {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.btn22 {
+    width: 243px;
+    height: 40px;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+    border-radius: 25px;
+    background: #0147B0;
+    box-shadow: 0px 3px 15px 2px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+
+.box6 {
+    width: 100%;
+    height: 220px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.img1 {
+    width: 100px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img11 {
+    width: 100%;
+    height: 90px;
+    background-size: 100% 100%;
+    background-image: url(./images/om.png);
+}
+
+.img2 {
+    width: 240px;
+    height: 100%;
+
+}
+
+.img22 {
+    width: 100px;
+    height: 60px;
+    background-size: 100% 100%;
+    background-image: url(./images/kkkk.png);
+    box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.40);
+}
+
+.img23 {
+    width: 100%;
+    height: 100px;
+    background-image: url(./images/kk.png);
+    background-size: 100% 100%;
+}
+
+.imgu {
+    width: 100px;
+    height: 80px;
+    background-size: 100% 100%;
+    background-image: url(./images/ss.png);
+    box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.40);
+}
+
+.aruje {
+    width: 240px;
+    height: 100%;
+    display: flex;
+}
+
+.imga {
+    width: 80px;
+    height: 100px;
+    background-size: 100% 100%;
+    background-image: url(./images/uni.png);
+}
+
+.aruje1 {
+    width: 160px;
+    height: 150px;
+    background-size: 100% 100%;
+    background-image: url(./images/ll.png);
+}
+
+.box20 {
+    width: 150px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image1 {
+    width: 80px;
+    height: 90px;
+    background-image: url(./images/asd.png);
+    background-size: 100% 100%;
+}
+
+.image1 {
+    width: 80px;
+    height: 90px;
+    background-image: url(./images/myxx.png);
+    background-size: 100% 100%;
+}
+
+
+.mymenu {
+    width: 50%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.menu2 {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    width: 170px;
+    height: 32px;
+    list-style: none;
+    border-radius: 100px;
+    background: #313131;
+    box-shadow: 6px 4px 20px 0px rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.contection{
+    width:100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url(/public/images/detail1\ 3.png);
+}
+
+.cont10{
+    width:100%;
+    height: 580px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #7587a3;
+}
+.contection1{
+    width:100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url(/public/images/u\ 3.png);
+}
+
+.box7{
+    width:100%;
+    height:100%;
+}

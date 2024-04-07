@@ -1,0 +1,142 @@
+.parent {
+    width: 100%;
+    height: 70px;
+    background: rgba(42, 44, 51, 0.55);
+    box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.25);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Composet {
+    width: 200px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Composet1 {
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+
+}
+
+.menu {
+    width: 43%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    position: relative;
+}
+
+.menuli {
+    text-decoration: none;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.home{
+    width:100px;
+    height:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.home1{
+    width:120px;
+    height:100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+.heart{
+    margin-right: 4px;
+    color: #FFF;
+}
+.coun{
+    width:25px;
+    height:25px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.language{
+    width:150px;
+    height: 150px;
+    position: absolute;
+    top: 100%;
+    left: 74%;
+    display: none;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    z-index: 1;
+}
+
+.language1{
+    list-style: none;
+    color: white;
+    font-size: 16px;
+    font-family: Montserrat;
+}
+
+.language1:hover{
+    text-decoration: underline;
+}
+
+.information{
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+width: 100%;
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: rgba(0, 0, 0, 0.468);
+text-decoration: none;
+cursor: pointer;
+opacity: 1;
+}
+
+.home22{
+    width:130px;
+    height:100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.information1{
+    width:200px;
+    height:50px;
+    position: absolute;
+    top: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 40000;
+}
